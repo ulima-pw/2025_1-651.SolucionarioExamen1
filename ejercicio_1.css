@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.principal_container {
+    border: solid;
+    border-width: 1px;
+    border-color: grey;
+    width: 17%;
+    box-shadow: 10px 5px 5px grey;
+    padding-bottom: 10px;
+}
+
+.menu_container {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+
+.add_container {
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
